@@ -34,6 +34,10 @@ Vesel, C. (2012) [Language bias in accident investigation](https://lup.lub.lu.se
 
 > This theory simplifies the idea of causation by limiting the search for cause to singular 'chains of events', which does not take into account the complexity of nature (e.g. fire), where multiple action chains may exist concurrently. One property of a complex system is emergence, which refers to phenomena that are new and not explicable by the properties of their components (2009; S. E. Page, 2011). This is different than resultant phenomena, which can be linked directly to other entities or events.
 
+Leveson, (2011) “Applying Systems Thinking to Analyze and Learn from Events.”
+> (p. 9)
+> consider 5 Whys. This technique is perhaps the most simplistic and it leads to the least amount of learning from events, but it provides an illustrative example of the problems in most current causal analysis techniques.
+Using 5 Whys, the investigation team questions "why" the inciden happened or "why" the unfavorable conditions existed. Specifically, the team selects an event associated with the incident, asks why this event occurred, and identifies multiple sub-events or conditions that gave rise to the event. For each of these sub-events or conditions, the team again asks why it occurred. The team records the sub- events or conditions as an event tree. The team then repeats this process five times to identify the root cause. The number five is arbitrary, of course, but the same limitations occur if the question is asked more times. Some problems with this approach include the fact that the results are not reproducible and consistent among investigation teams, systemic causes may not be identified, and a single cause is assumed along with one linear path to an event. Most important, the impacts of the potential ways to eliminate this cause are not evaluated.
 
 ### On the usage of the term
 
