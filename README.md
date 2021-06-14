@@ -14,6 +14,17 @@ Dekker, S., Hollnagel, E., Woods, D., & Cook, R. (2008). Resilience Engineering:
 >(p. 33)
 >Accidents are not the result of an initiating (root cause) event that triggers a series of events, which eventually leads to a loss. Instead, accidents result from interactions among components that violate the safety constraints on system design and operation, by which feedback and control inputs can grow increasingly at odds with the real problem or processes to be controlled.
 
+Carroll, J. S. (1995). [Incident Reviews in High-Hazard Industries: Sense Making and Learning Under Ambiguity and Accountability](https://journals.sagepub.com/doi/10.1177/108602669500900203). Industrial & Environmental Crisis Quarterly, 9(2), 175–197. doi:10.1177/108602669500900203 
+
+> (p. 181)
+Root Cause Seduction
+> 
+> The identification of a root cause means that the analysis has found the source of the event and so everyone can focus
+on fixing the problem. This satisfies people’s need to avoid ambiguous situations in which one lacks essential information to make a decision
+(Frisch & Baron, 1988) or experiences a salient knowledge gap (Loewenstein, 1993). The seductiveness of singular root causes may also feed into, and be supported by, the general tendency to be over-confident about how much we know (Fischhoff,Slovic,& Lichtenstein, 1977).
+
+> However, theorists and researchers who have studied causal reasoning recognize that the assignment of causality is ambiguous or mistaken in several ways (Rasmussen, 1990). Most simple there is unlikely to be a single cause for any serious or surprising event. Instead,there is a confluence of behaviors, conditions, and circumstances that have developed over time (Reason, 1990), with precursors that have gone unheeded (Weick& Roberts,1993).
+
 
 Johannesen, L., Sarter, N., Cook, R., Dekker, S., & Woods, D. D. (2012). [Behind Human Error](https://bookshop.org/books/behind-human-error/9780754678342). Ashgate Publishing, Ltd..
 
