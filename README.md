@@ -35,6 +35,13 @@ Vesel, C. (2012) [Language bias in accident investigation](https://lup.lub.lu.se
 > This theory simplifies the idea of causation by limiting the search for cause to singular 'chains of events', which does not take into account the complexity of nature (e.g. fire), where multiple action chains may exist concurrently. One property of a complex system is emergence, which refers to phenomena that are new and not explicable by the properties of their components (2009; S. E. Page, 2011). This is different than resultant phenomena, which can be linked directly to other entities or events.
 
 
+Besnard, Denis, and Erik Hollnagel. “Some Myths about Industrial Safety,”
+> (p. 8)
+> Root cause analysis is attractive because it is simple, but the validity of the method depends on three critical assumptions. First, it is assumed that events that happen in the future will be a repetition of events that happened in the past (Cf. the procedure myth in Section 3). Second, it is assumed that outcomes of specific events are bimodal; i.e., outcomes are either correct or incorrect. Third, it is assumed that the cause-effect relations can be exhaustively described.
+Using a bimodal causal model may be reasonable for purely technical systems where components are designed to provide a constant performance within well-defined limits until they fail for some reason. However, the bimodal view is not appropriate for the performance of complex socio-technical systems. Neither individual nor collective human performance is bimodal: it normally varies considerably but rarely fails completely.
+
+> Indeed, the very flexibility and adaptability of human performance is a unique contribution to safety (Reason, 2009). Yet this flexibility is disregarded when a root cause analysis points to a human as the origin of an unwanted event. The analysis only sees the failure (Cf. human error in Section 2) and fails to recognise that things go right and wrong for the same reasons. The possible elimination of the human activity that was deemed the cause of the outcome will unfortunately also prevent the far more frequent and far more likely positive contribution.
+
 ### On the usage of the term
 
 Peerally, M. F., Carr, S., Waring, J., & Dixon-Woods, M. (2017). [The problem with root cause analysis](https://qualitysafety.bmj.com/content/qhc/26/5/417.full.pdf). BMJ quality & safety, 26(5), 417-422.
