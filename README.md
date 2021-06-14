@@ -35,6 +35,9 @@ Vesel, C. (2012) [Language bias in accident investigation](https://lup.lub.lu.se
 > This theory simplifies the idea of causation by limiting the search for cause to singular 'chains of events', which does not take into account the complexity of nature (e.g. fire), where multiple action chains may exist concurrently. One property of a complex system is emergence, which refers to phenomena that are new and not explicable by the properties of their components (2009; S. E. Page, 2011). This is different than resultant phenomena, which can be linked directly to other entities or events.
 
 
+Wears, Robert L., and Christopher P. Nemeth. “Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures.” Annals of Emergency Medicine 49, no. 2 (February 2007): 206–9. https://doi.org/10.1016/j.annemergmed.2006.08.027.
+> (p. 2) Both hindsight and outcome bias have been convincingly demonstrated in a number of fields, including medicine. These biases are powerful and insidious and make it hard for historical analyses (such as root cause analysis or closed claim review) to yield useful understandings of accidents or adverse events.
+
 ### On the usage of the term
 
 Peerally, M. F., Carr, S., Waring, J., & Dixon-Woods, M. (2017). [The problem with root cause analysis](https://qualitysafety.bmj.com/content/qhc/26/5/417.full.pdf). BMJ quality & safety, 26(5), 417-422.
