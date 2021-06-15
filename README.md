@@ -46,6 +46,9 @@ Using a bimodal causal model may be reasonable for purely technical systems wher
 
 > Indeed, the very flexibility and adaptability of human performance is a unique contribution to safety (Reason, 2009). Yet this flexibility is disregarded when a root cause analysis points to a human as the origin of an unwanted event. The analysis only sees the failure (Cf. human error in Section 2) and fails to recognise that things go right and wrong for the same reasons. The possible elimination of the human activity that was deemed the cause of the outcome will unfortunately also prevent the far more frequent and far more likely positive contribution.
 
+Wears, Robert L., and Christopher P. Nemeth. “Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures.” Annals of Emergency Medicine 49, no. 2 (February 2007): 206–9. https://doi.org/10.1016/j.annemergmed.2006.08.027.
+> (p. 2) Both hindsight and outcome bias have been convincingly demonstrated in a number of fields, including medicine. These biases are powerful and insidious and make it hard for historical analyses (such as root cause analysis or closed claim review) to yield useful understandings of accidents or adverse events.
+
 ### On the usage of the term
 
 Peerally, M. F., Carr, S., Waring, J., & Dixon-Woods, M. (2017). [The problem with root cause analysis](https://qualitysafety.bmj.com/content/qhc/26/5/417.full.pdf). BMJ quality & safety, 26(5), 417-422.
