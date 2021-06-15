@@ -34,13 +34,6 @@ Vesel, C. (2012) [Language bias in accident investigation](https://lup.lub.lu.se
 
 > This theory simplifies the idea of causation by limiting the search for cause to singular 'chains of events', which does not take into account the complexity of nature (e.g. fire), where multiple action chains may exist concurrently. One property of a complex system is emergence, which refers to phenomena that are new and not explicable by the properties of their components (2009; S. E. Page, 2011). This is different than resultant phenomena, which can be linked directly to other entities or events.
 
-Leveson, Nancy. “A New Accident Model for Engineering Safer Systems.” Safety Science 42, no. 4 (April 2004): 237–70. https://doi.org/10.1016/S0925-7535(03)00047-X.
-
-> To identify one event (such as a maintenance worker leaving out the slip disk) or even several events as the root cause or the start of an event chain leading to this accident would be misleading at best.
->> Rasmussen writes:
-The stage for an accidental course of events very likely is prepared through time by the normal efforts of many actors in their respective daily work context, responding to the standing request to be more productive and less costly. Ultimately, a quite normal variation in somebody’s behavior can then release an accident. Had this ‘root cause’ been avoided by some additional safety measure, the accident would very likely be released by another cause at another point in time. In other words, an explanation of the accident in terms of events, acts, and errors is not very useful for design of improved systems (Rasmussen, 1997).
-
-> In addition to subjectivity in selecting the events and stopping point, the links between the events that are chosen to explain the “cause” are subjective and subject to bias.
 
 ### On the usage of the term
 
